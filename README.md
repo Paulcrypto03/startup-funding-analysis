@@ -39,7 +39,10 @@ The dataset contains four tables:
 
 ## Key Findings
 
-Results and interpretations will be documented after reviewing the SQL query outputs.
+The analysis identified patterns in startup funding across companies,
+industries, countries, funding stages, and investors.
+
+See [findings.md](findings.md) for the detailed results and interpretations.
 
 ## Limitations
 
